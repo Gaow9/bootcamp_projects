@@ -1,5 +1,5 @@
 # Bootcamp Projects
-Data sciene boodcamp with batch 6 with Datarockie
+Data sciene boodcamp with batch 6 with `Datarockie`
 
 We learn 10 sprints during 4 month program.
 - Spreadsheets
