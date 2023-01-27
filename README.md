@@ -9,11 +9,20 @@ We learn 10 sprints during 4 month program.
 
 ### SQL Database
 - [Restaurant Database](https://github.com/Gaow9/bootcamp_projects/blob/main/SQL/SQL_Restaurant_Database.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table with some SQL queries to analyze data.
+  [Replit link here](https://replit.com/@KantapongMaisuk/SQLRestaurant-Database#main.sql)
+  
 ### R Programming
+
 ### Data Transformation
+
 ### Data Visualization
+
 ### Statistics
+
 ### Intro to `Classical` Machine Learning
+
 ### Intro to Python
+
 ### Essential Python for Data Analyst
+
 ### Dashboard
