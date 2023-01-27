@@ -8,10 +8,12 @@ We learn 10 sprints during 4 month program.
 - [ID Card Phraser](https://github.com/Gaow9/bootcamp_projects/blob/main/Spreadsheets/Google_Sheets_ID_Card_Parser.pdf) - Parse whole data in a cell in columns.
 
 ### SQL Database
-- [Restaurant Database](https://github.com/Gaow9/bootcamp_projects/blob/main/SQL/SQL_Restaurant_Database.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table with some SQL queries to analyze data.
-  [Replit link here!](https://replit.com/@KantapongMaisuk/SQLRestaurant-Database#main.sql)
+- [Restaurant Database](https://github.com/Gaow9/bootcamp_projects/blob/main/SQL/SQL_Restaurant_Database.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table with some SQL queries to analyze data. [Replit link here!](https://replit.com/@KantapongMaisuk/SQLRestaurant-Database#main.sql)
   
 ### R Programming
+
+- [Order Pizza Chatbot](https://github.com/Gaow9/bootcamp_projects/blob/main/R%20Programming/the_pizza_cottage_order_chatbot.r) - Create interactive chatbot to order pizza [Replit link here!](https://replit.com/@KantapongMaisuk/Batch06ChatbotPizza#main.r)
+- [Pao-Ying-Chub!! Game (Rock-Paper-Scissors)](https://github.com/Gaow9/bootcamp_projects/blob/main/R%20Programming/Pao-Ying-Chup%20Game%20(Rock-Paper-Scissors).r) - Create interactive Rock-Paper-Scissors Game with score count. [Replit link here!](https://replit.com/@KantapongMaisuk/Batch6-Pao-Ying-Chup#main.r)
 
 ### Data Transformation
 
