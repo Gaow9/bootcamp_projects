@@ -17,8 +17,8 @@ We learn 10 sprints during 4 month program.
 - [IMDB_Web_Scraping](https://github.com/Gaow9/bootcamp_projects/blob/main/R%20Programming/Webscraper.ipynb) - Scrape data from IMDB top 100 page.
 
 ### Data Transformation
-[NYC_Flights_2013 Analysis]() - Analyse data from 'nycflights13' dataset with R's 'dlpyr'
-[RPostgreSQL]() - Connect to 'PostgreSQL' database server hosted by 'ElephantSQL' using 'RPostgreSQL'
+- [NYC_Flights_2013 Analysis]() - Analyse data from 'nycflights13' dataset with R's 'dlpyr'
+- [RPostgreSQL]() - Connect to 'PostgreSQL' database server hosted by 'ElephantSQL' using 'RPostgreSQL'
 
 ### Data Visualization
 [Chinook_Data_Visualization] - Creating charts from 'Chinook' database using 'ggplot2'
